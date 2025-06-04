@@ -1,2 +1,2 @@
-# Blinkit-sales-project
-sales data analysis
+# Blinkit-project
+Blinkit Grocery Product Analysis
